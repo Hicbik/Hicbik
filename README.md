@@ -6,7 +6,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hicbik)
 
-![Dong Yuanwai's github activity graph](https://activity-graph.herokuapp.com/graph?username=Hicbik&theme=minimal)
-
 
 
